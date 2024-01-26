@@ -1,0 +1,11 @@
+    HTTP: Used to create server and client applications.
+    You can build a web server that handles HTTP requests
+    and returns responses.
+
+    FILESYSTEM: Enables interaction with the file system
+    in a server. You can read, write, delete, and manipulate
+    files on the server.
+
+    EVENTS: Allows you to creat, fire, and listrn for your own
+    events. It's fundamental to Node's asynchronous event-driven
+    architecture.
